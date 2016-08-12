@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap-gods",
+  "version": "1.0.0",
+  "description": "Bootstrap Gods 101",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonydelgado/classwork-Bootstrap-Gods.git"
+  },
+  "keywords": [
+    "bootstrap"
+  ],
+  "author": "anthony delgado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonydelgado/classwork-Bootstrap-Gods/issues"
+  },
+  "homepage": "https://github.com/anthonydelgado/classwork-Bootstrap-Gods#readme"
+}
